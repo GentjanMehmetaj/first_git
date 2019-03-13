@@ -16,7 +16,7 @@ namespace LoginTest
             //string un = Console.ReadLine();
             //Console.WriteLine("Please type a password: ");
             //string pas = Console.ReadLine();
-            //SECOND MANER 123
+            //SECOND MANER 123456
             //Console.WriteLine("Please create a UserName");
             //var un = Console.ReadLine();
             //Console.WriteLine("Now please create a password");
