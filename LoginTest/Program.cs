@@ -26,7 +26,7 @@ namespace LoginTest
 
             // THIRD MANNER
 
-            Console.WriteLine("Welcom!");
+            Console.WriteLine("Welcom to our program!");
            
             string pas=null;
             int j = 0,c=0;
