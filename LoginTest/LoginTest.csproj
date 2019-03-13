@@ -49,6 +49,7 @@
     <Compile Include="Models\body.cs" />
     <Compile Include="Models\response.cs" />
     <Compile Include="Models\status.cs" />
+    <Compile Include="Models\test_git.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
