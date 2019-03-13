@@ -1,0 +1,11 @@
+C:\Users\albana\source\repos\LoginTest\LoginTest\bin\Debug\LoginTest.exe.config
+C:\Users\albana\source\repos\LoginTest\LoginTest\bin\Debug\LoginTest.exe
+C:\Users\albana\source\repos\LoginTest\LoginTest\bin\Debug\LoginTest.pdb
+C:\Users\albana\source\repos\LoginTest\LoginTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\albana\source\repos\LoginTest\LoginTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\albana\source\repos\LoginTest\LoginTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\albana\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.csprojAssemblyReference.cache
+C:\Users\albana\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\albana\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.csproj.CopyComplete
+C:\Users\albana\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.exe
+C:\Users\albana\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
